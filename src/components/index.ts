@@ -1,4 +1,6 @@
 export * from "./About";
+export { default as Contact } from "./Contact";
+export { default as EmailContactForm } from "./EmailContactForm";
 export * from "./Footer";
 export * from "./Header";
 export * from "./Intro";
